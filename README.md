@@ -1,7 +1,7 @@
 # BCPO
 Beta-constrained portfolio Manager
 
-<H2>Constraints/H2>
+<H2>Constraints</H2>
 <br>
 <P>
 Long Tickers:
