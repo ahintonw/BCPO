@@ -13,7 +13,7 @@ CEG, LH, BA, CARR, DOW, PH, EMR, JBL, SWK, URI, BSX, DLTR, ORCL, HUBB, LYB, XYL,
 <br>
 ETSY, DXCM, ILMN, PAYC, VFC, ABNB, APA, UPS, EPAM, CHTR, MOS, EXPE, MPC, PANW, VLO, COR, BXP, MRO, HAL, MRNA
 <br>
-<h5>Trailing Stop loss of 3% per ticker with same-day cool-off period.</h5>h5>
+<h5>Trailing Stop loss of 3% per ticker with same-day cool-off period.</h5>
 <br>
 <h5>Market Neutral</h5>
 </P>
